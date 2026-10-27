@@ -1,0 +1,8 @@
+[
+  {"user_query":"I want to apply for 3 days leave. How many days do I have left?","employee_id":"E7742"},
+  {"user_query":"Is the payroll self-service portal working right now?","employee_id":"E7742"},
+  {"user_query":"Raise a ticket for a missing reimbursement of Rs. 4,500.","employee_id":"E334"},
+  {"user_query":"What is the notice period policy for resignation?","employee_id":"E7742"},
+  {"user_query":"My leave request from last week is still showing pending. Can you help?","employee_id":"E334"},
+  {"user_query":"Explain what casual leave means.","employee_id":"E7742"}
+]
